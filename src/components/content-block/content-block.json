@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_content_block_content_blocks",
+  "info": {
+    "displayName": "Content_Block",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "Text_Block": {
+      "type": "richtext",
+      "required": true
+    }
+  },
+  "config": {}
+}

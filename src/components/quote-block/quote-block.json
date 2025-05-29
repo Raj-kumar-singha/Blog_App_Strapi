@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_quote_block_quote_blocks",
+  "info": {
+    "displayName": "Quote_Block"
+  },
+  "options": {},
+  "attributes": {
+    "Quote_Block": {
+      "type": "text",
+      "required": true
+    }
+  },
+  "config": {}
+}
